@@ -1,0 +1,125 @@
+
+
+#red{
+    background-color: #D21312;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#blue{
+    background-color:#068FFF ;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    justify-content: center;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#yellow{
+    background-color:#FBD85D ;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#pink{
+    background-color:#FF8989 ;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#green{
+    background-color:#C3EDC0 ;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#orange{
+    background-color:#F29727;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#reset{
+    background-color:white ;
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    color:black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.my_form{
+    
+    height: 100vh;
+
+display: flex;
+    flex-direction: column;
+    align-items: center ;
+   
+    justify-content: center;
+    /* border-bottom: black; */
+}
+.my_border{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 15px black;
+    background-color: grey;
+    border-radius: 10px;
+ }
+ h2{
+    color:white;
+ }
+ button:focus{
+    outline: none;
+    transform: scale(1.04);
+    background-color: rgb(255, 255, 255);
+    
+ }
+ button:hover{
+    background-color: rgb(255, 255, 255);
+ }
